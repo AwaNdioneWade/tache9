@@ -1,0 +1,80 @@
+body{
+    background-color: #F7F8F9;
+}
+.corps{
+    background-color: #F3ACB9;
+
+}
+.navbar-brand img{
+    width: 100px;
+}
+
+form{
+    border: 2px solid #DE647D;
+    border-radius: 2%;
+    box-shadow: 0 0 10px #696969;
+}
+
+.bouton{
+    background-color: #DE647D;
+    border: none;
+}
+
+.banner{
+    height: 500px;
+    background-image: url(banner-fruits-removebg-preview\ 2.png);
+}
+.banner img{
+    width: 500px;
+}
+
+.back, .contact, .aycha{
+    background-color: #F3ACB9;
+}
+
+
+
+/*--------------------section footer----------------------------- */
+.footer{
+    background-image: linear-gradient(to right, #F3ACB9,#DE647D); 
+    background-color: #fff;
+    color: #fff;
+}
+
+.footer-img{
+    width: 100%;
+}
+
+.footer-box{
+    padding: 20px;
+}
+
+.footer-box img{
+    width: 120px;
+    margin-bottom: 20px;
+}
+
+.footer-box input{
+    box-shadow: none !important;
+    border: none;
+    border-radius: 0;
+    margin-top: 25px;
+    max-width: 250px;
+}
+
+.footer-box .btn-primary{
+    box-shadow: none !important;
+    border: none;
+    border-radius: 0;
+    margin-top: 30px;
+    background-image: linear-gradient(to right, #F3ACB9,#DE647D); 
+}
+
+hr{
+    background-color: #fff;
+}
+.copyright{
+    margin-bottom: 0;
+    padding-bottom: 20px;
+    text-align: center;
+}
